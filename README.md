@@ -1,8 +1,34 @@
+# PORTFOLIO
+
 # ABOUT ME
 # Hi there, I'm Rotimi Fiyinfoluwa Deborah! 👋
 **Data Analyst | SQL Specialist | Google Data Analytics Professional Candidate**
 
-I am a detail-oriented Data Analyst with a passion for transforming raw data into actionable business intelligence. With a logical and analytical mindset, I bridge the gap between complex datasets and stakeholder decision-making through clear communication and effective visualization.
+I am a detail-oriented Data Analyst with a background in Soil Science and Land Resources Management from FUOYE. I specialize in transforming complex datasets into clear, actionable business insights. With a logical and analytical mindset, I bridge the gap between raw data and stakeholder decision-making.
+
+---
+
+### 🛠️ Skills & Competencies
+* **Data Analysis:** Data Cleaning, Transformation, Trend Identification, and Statistical Interpretation.
+* **Database Management:** Relational Database Design, Schema Management, and Complex SQL Querying.
+* **Data Visualization:** Dashboard Design (UI/UX), Storytelling with Data, and KPI Reporting.
+* **Soft Skills:** Logical Problem Solving, Attention to Detail, and Stakeholder Communication.
+
+---
+
+### ⚙️ Technical Toolbox
+* **Databases:** SQL (PostgreSQL, MySQL, SQLite)
+* **Spreadsheets:** Microsoft Excel (VLOOKUP, Pivot Tables, Power Query), Google Sheets
+* **Visualization:** Power BI, Tableau (Learning)
+* **Programming:** R (Actively mastering via Google/Coursera)
+
+---
+
+### 🎓 Education & Professional Training
+* 🎓 **B. Agric (Soil Science and Land Resources Management)** | Federal University Oye-Ekiti (FUOYE)
+* 🌲 **Stanford Online:** Databases: Relational Databases and SQL
+* 🛡️ **NUPAT Technologies:** Data Science & Analytics (Nupat Code Camp)
+* 🎓 **Labano Academy:** Data Analysis Program Graduate
 
 ---
 
@@ -12,41 +38,23 @@ I am a detail-oriented Data Analyst with a passion for transforming raw data int
 
 ---
 
-### 🎓 Certifications & Professional Training
-* 🎓 **B. Agric (Soil Science and Land Resources Management)** | Federal University Oye-Ekiti (FUOYE)
-* 🌲 **Stanford Online:** Databases: Relational Databases and SQL
-* 🛡️ **NUPAT Technologies:** Data Science & Analytics (Nupat Code Camp)
-* 🎓 **Labano Academy:** Data Analysis Program Graduate
-
----
-
-### 🛠️ Technical Toolbox
-* **Databases:** SQL (PostgreSQL, MySQL, Relational Database Design)
-* **Analysis:** Excel, Google Sheets (Pivot Tables, Advanced Formulas, Data Modeling)
-* **Visualization:** Dashboard UI/UX, Data Storytelling, Power BI
-* **Programming:** R (Actively mastering via Google/Coursera)
-
----
-
 ### 📊 Featured Data Projects
 
 #### 📈 [Theo-Anderson Stores Sales Analysis (2024)](https://github.com/fiyinrotimi/Theo-Anderson-Sales-Analysis)
 * **The Insight:** Identified that 67% of profits occur on weekdays and pinpointed "Bottom 10" weekend locations for targeted growth.
-* **Recommendations:** * Implement a data dictionary to clarify high-volume metrics (e.g., the 17.6M "Products Sold" figure).
-  * Conduct a comparative study of weekend vs. weekday performance at low-profit locations like Pomona to determine if issues are time-specific or site-wide.
+* **Recommendations:** * Implement a data dictionary for scale metrics; Conduct site-specific performance audits for low-profit weekend locations.
 * **Tools:** Advanced Excel, Dashboard Design, KPI Tracking.
 
 #### 📉 [Multi-Year Sales Activity Dashboard (2015-2017)](https://github.com/fiyinrotimi/Historical-Sales-Activity)
 * **The Insight:** Uncovered a massive Q4 revenue surge and identified the West Region as the primary revenue driver (45%).
-* **Recommendations:** * Add a Year-over-Year (YoY) comparison line to the "Monthly Sales Trends" to verify if the November/December drop is a recurring seasonal trend or a one-time anomaly.
-  * Introduce a "Revenue per Unit" metric to identify which products offer the highest premium value.
+* **Recommendations:** * Use YoY comparison lines to verify seasonality; Introduce "Revenue per Unit" metrics for premium product identification.
 * **Tools:** Trend Analysis, Performance Benchmarking, Data Transformation.
 
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [-----]
-- **Email:** [fiyin@rotimi.com]
-- **Phone Number:** [+234 9034455206]
+- **LinkedIn:** []
+- **Email:** [fiyin@rotimi]
+- **Phone Number:** [ +2349034455206]
 
 *"I approach every dataset with a logical mindset, looking for the story behind the numbers."*
