@@ -46,5 +46,6 @@ I am a detail-oriented Data Analyst with a passion for transforming raw data int
 ### 📫 Let's Connect!
 - **LinkedIn:** [-----]
 - **Email:** [fiyin@rotimi.com]
+- **Phone Number:** [+234 9034455206]
 
 *"I approach every dataset with a logical mindset, looking for the story behind the numbers."*
