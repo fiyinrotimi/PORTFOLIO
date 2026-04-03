@@ -13,6 +13,7 @@ I am a detail-oriented Data Analyst with a passion for transforming raw data int
 ---
 
 ### 🎓 Certifications & Professional Training
+* 🎓 **B. Agric (Soil Science and Land Resources Management)** | Federal University Oye-Ekiti (FUOYE)
 * 🌲 **Stanford Online:** Databases: Relational Databases and SQL
 * 🛡️ **NUPAT Technologies:** Data Science & Analytics (Nupat Code Camp)
 * 🎓 **Labano Academy:** Data Analysis Program Graduate
