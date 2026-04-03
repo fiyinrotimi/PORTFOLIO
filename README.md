@@ -1,6 +1,6 @@
-# PORTFOLIO
+#**PORTFOLIO**
 
-# ABOUT ME
+#**About Me**
 # Hi there, I'm Rotimi Fiyinfoluwa Deborah! 👋
 **Data Analyst | SQL Specialist | Google Data Analytics Professional Candidate**
 
