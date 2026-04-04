@@ -41,6 +41,7 @@ I am a detail-oriented Data Analyst with a background in Soil Science and Land R
 ### 📊 Featured Data Projects
 
 #### 📈 [Theo-Anderson Stores Sales Analysis (2024)](https://github.com/fiyinrotimi/Theo-Anderson-Sales-Analysis)
+### ![Sales Dashboard](images/theo_sales.png)
 * **The Insight:** Identified that 67% of profits occur on weekdays and pinpointed "Bottom 10" weekend locations for targeted growth.
 * **Recommendations:** * Implement a data dictionary for scale metrics; Conduct site-specific performance audits for low-profit weekend locations.
 * **Tools:** Advanced Excel, Dashboard Design, KPI Tracking.
