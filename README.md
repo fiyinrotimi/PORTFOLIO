@@ -47,6 +47,7 @@ I am a detail-oriented Data Analyst with a background in Soil Science and Land R
 * **Tools:** Advanced Excel, Dashboard Design, KPI Tracking.
 
 #### 📉 [Multi-Year Sales Activity Dashboard (2015-2017)](https://github.com/fiyinrotimi/Historical-Sales-Activity)
+### ![Multi-Year Dashboard Preview](images/multi_year_sales.png)
 * **The Insight:** Uncovered a massive Q4 revenue surge and identified the West Region as the primary revenue driver (45%).
 * **Recommendations:** * Use YoY comparison lines to verify seasonality; Introduce "Revenue per Unit" metrics for premium product identification.
 * **Tools:** Trend Analysis, Performance Benchmarking, Data Transformation.
