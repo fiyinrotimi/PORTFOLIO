@@ -55,8 +55,7 @@ I am a detail-oriented Data Analyst with a background in Soil Science and Land R
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** []
-- **Email:** [fiyin@rotimi.com]
-- **Phone Number:** [+2349034455206]
+- **Email:** fiyin@rotimi.com
+- **Phone Number:** +2349034455206
 
 *"I approach every dataset with a logical mindset, looking for the story behind the numbers."*
