@@ -59,13 +59,13 @@ This project presents a longitudinal comparative study (2018–2024) of agricult
  * **Digital Scaling** : Expand the use of interactive BI tools at the farm-gate level to allow for real-time soil health interventions.
  * **Tools:**  Power BI Desktop using advanced features like Edit Interactions, Synced Slicers, and Geographic Data Categorization.
    
-#### 📉 [Multi-Year Sales Activity Dashboard (2015-2017)](https://github.com/fiyinrotimi/Historical-Sales-Activity)
+# 📉 [Multi-Year Sales Activity Dashboard (2015-2017)](https://github.com/fiyinrotimi/Historical-Sales-Activity)
 ### ![Multi-Year Dashboard Preview](images/multi_year_sales.png.jpg)
 * **The Insight:** Uncovered a massive Q4 revenue surge and identified the West Region as the primary revenue driver (45%).
 * **Recommendations:**  Use YoY comparison lines to verify seasonality; Introduce "Revenue per Unit" metrics for premium product identification.
 * **Tools:** Trend Analysis, Performance Benchmarking, Data Transformation.
 
-#### 📈 [Theo-Anderson Stores Sales Analysis (2024)](https://github.com/fiyinrotimi/Theo-Anderson-Sales-Analysis)
+# 📈 [Theo-Anderson Stores Sales Analysis (2024)](https://github.com/fiyinrotimi/Theo-Anderson-Sales-Analysis)
 ### ![Sales Dashboard](images/theo_sales.png.jpg)
 * **The Insight:** Identified that 67% of profits occur on weekdays and pinpointed "Bottom 10" weekend locations for targeted growth.
 * **Recommendations:**  Implement a data dictionary for scale metrics; Conduct site-specific performance audits for low-profit weekend locations.
