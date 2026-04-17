@@ -2,7 +2,7 @@
 
 **About Me**
 # Hi there, I'm Rotimi Fiyinfoluwa Deborah! 👋
-**Data Analyst | SQL Specialist | Google Data Analytics Professional Candidate**
+* **Soil Scientist, Data Analyst | SQL Specialist | Google Data Analytics Professional Candidate**
 
 I am a detail-oriented Data Analyst with a background in Soil Science and Land Resources Management from FUOYE. I specialize in transforming complex datasets into clear, actionable business insights. With a logical and analytical mindset, I bridge the gap between raw data and stakeholder decision-making.
 
