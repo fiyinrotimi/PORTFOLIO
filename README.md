@@ -2,7 +2,7 @@
 
 **About Me**
 # Hi there, I'm Rotimi Fiyinfoluwa Deborah! 👋
-* **Soil Scientist , Data Analyst | SQL Specialist | Google Data Analytics Professional Candidate**
+Soil Scientist, Data Analyst | SQL Specialist | Google Data Analytics Professional Candidate
 
 I am a detail-oriented Data Analyst with a background in Soil Science and Land Resources Management from FUOYE. I specialize in transforming complex datasets into clear, actionable business insights. With a logical and analytical mindset, I bridge the gap between raw data and stakeholder decision-making.
 
@@ -40,26 +40,21 @@ I am a detail-oriented Data Analyst with a background in Soil Science and Land R
 
 ### 📊 Featured Data Projects
 
-### README.md
-### Project: Trans-Regional Soil Fertility & Yield Gap Analysis (A Comparative BI Study of Ireland vs. Nigeria)
-  ### Executive Summary
+* **Project: Trans-Regional Soil Fertility & Yield Gap Analysis (A Comparative BI Study of Ireland vs. Nigeria)**
+* **Executive Summary**
 This project presents a longitudinal comparative study (2018–2024) of agricultural productivity across two distinct ecological zones: the Temperate Maritime climate of Ireland and the Tropical climate of Nigeria. By integrating soil chemical data (N−P−K) with environmental metrics (Rainfall/Temperature), this interactive solution identifies the drivers of crop performance and nutrient efficiency across borders.
  ### <img width="840" height="724" alt="Ireland vs Nigeria Dashboard" src="https://github.com/user-attachments/assets/943caa21-8df7-446c-9331-9819dd2c6070" />
 
- ## **The Problem Statement:**
+ **The Problem Statement:**
  * **The "Yield Gap"** Challenge Global food security is hindered by a widening productivity gap between developed and developing agricultural systems.
  * **The Efficiency Paradox:** Despite high land availability, tropical systems often see lower returns on fertilizer inputs compared to temperate systems.
  * **Climate Leaching:** Traditional soil management often ignores the impact of high-intensity precipitation on nutrient availability, leading to environmental waste.
  * **Static Reporting:** A lack of integrated, real-time tools prevents researchers from visualizing the intersection of chemistry and climate.
- ## **Strategic Recommendations** 
+**Strategic Recommendations** 
 * **Precision Management**: Shift from "blanket fertilization" to site-specific Nitrogen Stabilization in tropical regions to mitigate leaching.
 * **Climate-Smart Selection**: Deploy crop varieties specifically bred for high-rainfall zones, as identified in the Climate Correlation analysis.
 * **Digital Scaling** : Expand the use of interactive BI tools at the farm-gate level to allow for real-time soil health interventions.
 * **Tools:**  Power BI Desktop using advanced features like Edit Interactions, Synced Slicers, and Geographic Data Categorization.
-
-
-
-  
    
 #### 📉 [Multi-Year Sales Activity Dashboard (2015-2017)](https://github.com/fiyinrotimi/Historical-Sales-Activity)
 ### ![Multi-Year Dashboard Preview](images/multi_year_sales.png.jpg)
