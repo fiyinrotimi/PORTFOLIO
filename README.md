@@ -55,9 +55,9 @@ This project presents a longitudinal comparative study (2018–2024) of agricult
 -**Static Reporting**: A lack of integrated, real-time tools prevents researchers from visualizing the intersection of chemistry and climate.
 
 
+### https://github.com/fiyinrotimi/Agro-Yield-Efficiency-Analysis
 
-
-  [ Interactive-Soil-Intelligence-Demo.mp42.mp4 ]  
+   
 #### 📉 [Multi-Year Sales Activity Dashboard (2015-2017)](https://github.com/fiyinrotimi/Historical-Sales-Activity)
 ### ![Multi-Year Dashboard Preview](images/multi_year_sales.png.jpg)
 * **The Insight:** Uncovered a massive Q4 revenue surge and identified the West Region as the primary revenue driver (45%).
