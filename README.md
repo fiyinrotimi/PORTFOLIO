@@ -56,9 +56,8 @@ This project presents a longitudinal comparative study (2018–2024) of agricult
 
 
 ### https://github.com/fiyinrotimi/Agro-Yield-Efficiency-Analysis
-https://github.com/fiyinrotimi/PORTFOLIO/blob/main/Ireland%20vs%20Nigeria%20Dashboard.PNG
-![Uploading Ireland vs Nigeria Dashboard.PNG…]()
 
+https://github.com/fiyinrotimi/Agro-Yield-Efficiency-Analysis
 
    
 #### 📉 [Multi-Year Sales Activity Dashboard (2015-2017)](https://github.com/fiyinrotimi/Historical-Sales-Activity)
