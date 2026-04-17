@@ -50,7 +50,7 @@ This project presents a longitudinal comparative study (2018–2024) of agricult
   * **The Efficiency Paradox:** Despite high land availability, tropical systems often see lower returns on fertilizer inputs compared to temperate systems.
  * **Climate Leaching:** Traditional soil management often ignores the impact of high-intensity precipitation on nutrient availability, leading to environmental waste.
  * **Static Reporting:** A lack of integrated, real-time tools prevents researchers from visualizing the intersection of chemistry and climate.
-* **Tools:**
+* **Tools:**  Power BI Desktop using advanced features like Edit Interactions, Synced Slicers, and Geographic Data Categorization.
 
 
 
