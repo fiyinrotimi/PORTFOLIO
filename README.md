@@ -40,6 +40,23 @@ I am a detail-oriented Data Analyst with a background in Soil Science and Land R
 
 ### 📊 Featured Data Projects
 
+### Agro-Yield-Efficiency-Analysis
+### Project: Trans-Regional Soil Fertility & Yield Gap Analysis (A Comparative BI Study of Ireland vs. Nigeria)
+
+### Executive Summary
+This project presents a longitudinal comparative study (2018–2024) of agricultural productivity across two distinct ecological zones: the Temperate Maritime climate of Ireland and the Tropical climate of Nigeria. By integrating soil chemical data (N−P−K) with environmental metrics (Rainfall/Temperature), this interactive solution identifies the drivers of crop performance and nutrient efficiency across borders.
+
+### The Problem Statement: The "Yield Gap" Challenge Global food security is hindered by a widening productivity gap between developed and developing agricultural systems.
+
+-**The Efficiency Paradox**: Despite high land availability, tropical systems often see lower returns on fertilizer inputs compared to temperate systems.
+
+-**Climate Leaching**: Traditional soil management often ignores the impact of high-intensity precipitation on nutrient availability, leading to environmental waste.
+
+-**Static Reporting**: A lack of integrated, real-time tools prevents researchers from visualizing the intersection of chemistry and climate.
+
+https://github.com/fiyinrotimi/Agro-Yield-Efficiency-Analysis/blob/main/Data-Schema-and-Calculated-Columns.PNG
+
+Ireland vs Nigeria Dashboard , [ ](https://github.com/fiyinrotimi/Agro-Yield-Efficiency-Analysis/blob/main/Interactive-Soil-Intelligence-Demo.mp4) ,Data-Schema-and-Calculated-Columns,Key-Metrics-and-Data-Modeling-View
 #### 📉 [Multi-Year Sales Activity Dashboard (2015-2017)](https://github.com/fiyinrotimi/Historical-Sales-Activity)
 ### ![Multi-Year Dashboard Preview](images/multi_year_sales.png.jpg)
 * **The Insight:** Uncovered a massive Q4 revenue surge and identified the West Region as the primary revenue driver (45%).
