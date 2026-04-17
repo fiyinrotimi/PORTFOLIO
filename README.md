@@ -54,7 +54,8 @@ This project presents a longitudinal comparative study (2018–2024) of agricult
 
 -**Static Reporting**: A lack of integrated, real-time tools prevents researchers from visualizing the intersection of chemistry and climate.
 
-https://github.com/fiyinrotimi/Agro-Yield-Efficiency-Analysis/blob/main/Data-Schema-and-Calculated-Columns.PNG
+
+
 
   [ Interactive-Soil-Intelligence-Demo.mp42.mp4 ]  
 #### 📉 [Multi-Year Sales Activity Dashboard (2015-2017)](https://github.com/fiyinrotimi/Historical-Sales-Activity)
